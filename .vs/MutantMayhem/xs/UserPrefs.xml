@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C01B11EF-2551-418B-A806-062FD236548E}|Default">
+  <MonoDevelop.Ide.ItemProperties.MutantMayhem.OpenGL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MutantMayhem.Shared/Game1.cs">
+    <Files>
+      <File FileName="MutantMayhem.Shared/Game1.cs" Line="32" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MutantMayhem" expanded="True">
+            <Node name="MutantMayhem.Shared" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="Game1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

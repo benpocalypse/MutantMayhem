@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/flecko/Projects/MutantMayhem/MutantMayhem.Shared/Content/font.spritefont</SourceFile>
+  <SourceTime>2020-03-25T13:22:45.421489-04:00</SourceTime>
+  <DestFile>/home/flecko/Projects/MutantMayhem/MutantMayhem.Shared/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2020-04-18T19:02:08.9182791-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-06-13T12:31:09.724479-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-06-13T12:31:09.724479-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
